@@ -1,0 +1,7 @@
+CUDA at Scale Independent Project
+
+Program compiled successfully using nvcc
+GPU kernel executed successfully
+
+Output:
+GPU computation completed successfully
